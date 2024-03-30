@@ -1,0 +1,9 @@
+#heading{
+    color: red;
+}
+
+.child1{
+    color: red;
+    display: inline-block;
+    background: black;
+}
